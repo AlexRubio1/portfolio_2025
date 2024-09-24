@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Course Descriptions
-description: An overview of Computer Science pathway at Del Norte High School
+description: An overview of Computer Science pathway   at Del Norte High School
 author: Alex rubio
 image: /images/mario_animation.png
 hide: true
